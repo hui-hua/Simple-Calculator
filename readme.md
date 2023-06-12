@@ -2,6 +2,8 @@
 
 This is a simple calculator application developed in Python 3 using the Tkinter library. It provides basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 
+![alt text](https://github.com/hui-hua/Simple-Calculator/blob/master/calculator.png)
+
 ## Installation
 
 To run the calculator, follow these steps:
